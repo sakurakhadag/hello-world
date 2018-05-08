@@ -6,4 +6,4 @@ Adding hyperlinks [here](https://www.google.com)
 
 Playing with image size:
 
-![](1.png){: height="40px"}
+![](1.png =40x)
