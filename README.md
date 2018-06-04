@@ -2,7 +2,7 @@
 The beginning...
 
 Trying stuff out
-Adding hyperlinks [here](https://www.google.com)
+Adding hyperlinks [here](https://upcjmi19.github.io/cs/index.html)
 
 Playing with image size:
 
